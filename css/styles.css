@@ -723,6 +723,7 @@ address {
 .modal-form-check-descr-blue {
   color: var(--accent-color);
   border-bottom: 1px solid var(--accent-color);
+  line-height: 1.15;
 }
 .modal-form-check-descr::before {
   display: block;
